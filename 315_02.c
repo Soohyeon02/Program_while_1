@@ -1,4 +1,3 @@
-//// 202111593 È²¼öÇö
 //#include <stdio.h>
 //
 //int main(void)
